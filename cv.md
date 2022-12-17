@@ -1,45 +1,40 @@
-## OLGA  
-
+# OLGA SHKABURA
+## CONTACT
 ***
-
-### CONTACT
-
-***
-
-* Phone: +375 XX XXX XX XX
-* Email: olga.sh13@mail.ru
+* Email: <olgashkabura@gmail.ru>
 * GitHub: [olgareuts](https://github.com/olgareuts)
-
 ***
-
-### EDUCATION
-
+## EDUCATION
 ***
-
-Bachelor Degree
-
-University Name Here
-
-2015-2019
-
+Minsk State Higher Radioengineering College
 ***
-
-### SKILLS
-
+## ABOUT ME
 ***
-
+I like programming, it fascinates me. I study new tehnologies and improve my skills.
+***
+## SKILLS
+***
 * HTML
 * CSS
 * JAVASCRIPT
 * SQL
 * GIT
-
 ***
-
-### LANGUAGES
-
+## CODE EXAMPLE
 ***
+    function sumOfSeries (n) {
+      let sum = 0;
+      for (let i = 1; i <= n; i++) {
+        sum += i;
+      }
+      return sum;
+    }
+ ***
+## LANGUAGES
+***
+English - Pre-Intermediate 
 
-English - Pre-Intermediate (A2)
+
+
 
 
